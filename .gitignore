@@ -1,0 +1,7 @@
+
+# dependencies
+/node_modules
+
+# other
+/output/output.js
+/src/abi.js

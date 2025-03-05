@@ -1,0 +1,14 @@
+{
+  "name": "errors-extractor",
+  "version": "1.0.0",
+  "description": "extracts solidity contract errors from abi and returns them as a js object",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.13.5"
+  }
+}
